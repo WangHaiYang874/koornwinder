@@ -26,10 +26,10 @@ classifiers = [
 ]
 dependencies = ["numpy"]
 
-# [project.urls]
-# Documentation = "https://github.com/unknown/koornwinder#readme"
-# Issues = "https://github.com/unknown/koornwinder/issues"
-# Source = "https://github.com/unknown/koornwinder"
+[project.urls]
+Documentation = "https://github.com/WangHaiYang874/koornwinder#readme"
+Issues = "https://github.com/WangHaiYang874/koornwinder/issues"
+Source = "https://github.com/WangHaiYang874/koornwinder"
 
 [tool.hatch.version]
 path = "src/koornwinder/__about__.py"
